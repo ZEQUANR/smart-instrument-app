@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../Program Files/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvY29uZmlndXJhdGlvbi9pbmRleC52dWU"],"sourcesContent":["import MiniProgramPage from 'D:/learn/HBuilderProjects/smart-instrument-app/pages/configuration/index.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

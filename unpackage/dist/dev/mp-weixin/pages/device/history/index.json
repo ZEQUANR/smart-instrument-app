@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "历史记录",
+  "disableScroll": true,
+  "usingComponents": {
+    "wd-tab": "../../../uni_modules/wot-design-uni/components/wd-tab/wd-tab",
+    "wd-tabs": "../../../uni_modules/wot-design-uni/components/wd-tabs/wd-tabs"
+  }
+}

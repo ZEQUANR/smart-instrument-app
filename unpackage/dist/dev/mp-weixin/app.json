@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/device/list/index",
+    "pages/device/info/index",
+    "pages/device/history/index",
+    "pages/configuration/index",
+    "pages/my/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/device/list/index",
+        "iconPath": "static/tabBar/manage/manage.png",
+        "selectedIconPath": "static/tabBar/manage/manage.png",
+        "text": "设备"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "iconPath": "static/tabBar/my/my.png",
+        "selectedIconPath": "static/tabBar/my/my.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
